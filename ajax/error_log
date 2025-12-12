@@ -1,0 +1,3 @@
+[06-Apr-2022 12:12:02 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/ajax/finish_ticket.php on line 21
+[06-Apr-2022 12:12:02 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/ajax/finish_ticket.php on line 77
+[06-Apr-2022 12:12:02 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/ajax/finish_ticket.php on line 100

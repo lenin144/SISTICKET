@@ -1,0 +1,20 @@
+<?php  
+	include "header.php";
+	include "sidebar.php";
+?>
+    <!-- Content Wrapper. Contains page content -->
+    <div class="content-wrapper">
+        <!-- Main content -->
+        <section class="content">
+            <div class="error-page">
+                <h2 class="headline text-yellow"> 404</h2>
+                <div class="error-content">
+                    <h3><i class="fa fa-warning text-yellow"></i> Oops! Página no encontrada.</h3>
+                        <h3>Hmmm!</h3>
+                    <p>No encontramos lo que buscabas!</p>
+                      <a href="?view=dashboard" class="btn btn-default"><span class="glyphicon glyphicon-hand-left"></span> Regresar</a>
+                </div><!-- /.error-content -->
+            </div><!-- /.error-page -->
+        </section><!-- /.content -->
+    </div><!-- /.content-wrapper -->
+<?php  include "footer.php" ?>

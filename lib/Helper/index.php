@@ -1,0 +1,11 @@
+<?php
+    /*-------------------------
+    Autor: Autor Dev
+    Web: www.google.com
+    E-Mail: waptoing7@gmail.com
+    ---------------------------*/
+	header("location: ../");
+	/*include "CryptoHelper.php";
+	echo CryptoHelper::decrypt("");*/
+
+?>

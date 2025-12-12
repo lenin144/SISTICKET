@@ -1,0 +1,2 @@
+[06-Jan-2023 15:47:26 UTC] PHP Warning:  include(view/error-view.php): failed to open stream: No such file or directory in /home/calidrap/ticket.calidraperu.com.pe/admin/index.php on line 17
+[06-Jan-2023 15:47:26 UTC] PHP Warning:  include(): Failed opening 'view/error-view.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/calidrap/ticket.calidraperu.com.pe/admin/index.php on line 17

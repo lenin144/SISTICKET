@@ -1,0 +1,11 @@
+[09-Jan-2023 15:46:40 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/admin/action/excel_reporte.php on line 176
+[09-Jan-2023 15:46:40 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/admin/action/excel_reporte.php on line 196
+[20-Apr-2023 08:37:37 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/admin/action/excel_reporte.php on line 176
+[20-Apr-2023 08:37:37 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/admin/action/excel_reporte.php on line 196
+[26-Jun-2023 17:43:43 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/admin/action/excel_reporte.php on line 176
+[26-Jun-2023 17:43:43 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/admin/action/excel_reporte.php on line 196
+[30-Jun-2023 09:59:43 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/admin/action/excel_reporte.php on line 176
+[30-Jun-2023 09:59:43 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/admin/action/excel_reporte.php on line 196
+[30-Jun-2023 10:06:09 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/admin/action/excel_reporte.php on line 176
+[30-Jun-2023 10:06:09 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/admin/action/excel_reporte.php on line 196
+[05-Jul-2023 08:47:20 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/calidrap/ticket.calidraperu.com.pe/admin/action/excel_reporte.php on line 176

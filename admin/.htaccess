@@ -1,0 +1,17 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteCond %{SCRIPT_FILENAME} !-d  
+RewriteCond %{SCRIPT_FILENAME} !-f
+
+
+
+
+Options All -Indexes
+</IfModule>
+
+#Protejer archivo
+<files config/config.php>
+order allow,deny
+deny from all
+</files>

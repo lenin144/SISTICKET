@@ -1,0 +1,24 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+#RewriteCond %{SERVER_PORT} !^443$
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{SCRIPT_FILENAME} !-d  
+RewriteCond %{SCRIPT_FILENAME} !-f
+
+#url
+ErrorDocument 404 https://www.google.com/nextservice/404.php
+
+RewriteRule ^login$ index.php [L]
+RewriteRule ^logout$ action/logout.php [L]
+
+Options All -Indexes
+</IfModule>
+
+#Protejer archivo
+<files admin/config/config.php>
+order allow,deny
+deny from all
+</files>
+
