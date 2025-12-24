@@ -4,27 +4,29 @@
 			<div class="pull-left image">
 				<img src="images/profiles/<?php echo $profile_pic ?>" class="img-circle" alt="User Image">
 			</div>
-			<div class="pull-left info">
-				<p><?php echo $name." ".$lastname ?></p>
-				<!-- <a href="#"><i class="fa fa-circle text-success"></i> Online</a> -->
-				<a href="#">
-					<?php 
-						if ($is_admin==1) {
-						   echo " Administrador";
-						}else if($soy_supervisor==1){
-						 	echo " Supervisor";
-						}else{
-							echo " Agente";
-						}
-					?>
-				</a>
-			</div>
+<div class="pull-left info">
+	<p style="white-space: normal; max-width: 145px; line-height: 1.1; font-size: 15px; margin: 0 0 1px 0; font-weight: bold;">
+		<?php echo "Manuel Lenin Rivas Sullcaccori"; ?>
+	</p>
+	<a href="#" style="font-size: 15px;">
+		<i class="fa fa-circle text-success"></i>
+		<?php
+		if ($is_admin==1) {
+			echo " Administrador";
+		}else if($soy_supervisor==1){
+			echo " Supervisor";
+		}else{
+			echo " Agente";
+		}
+		?>
+    </a>
+</div>
 		</div>
 		<ul class="sidebar-menu"><!-- sidebar menu: : style can be found in sidebar.less -->
 			<li class="header">MENU</li>
 			<li class="<?php if(isset($active1)){echo $active1;}?>">
 				<a href="?view=dashboard">
-					<i class="fa fa-dashboard"></i> <span>Dashboard</span>
+					<i class="fa fa-dashboard"></i> <span>Panel de Control</span>
 				</a>
 			</li>
 			<li class="<?php if(isset($active1_1)){echo $active1_1;}?>">

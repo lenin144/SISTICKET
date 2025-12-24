@@ -26,8 +26,34 @@
 	<div class="content-wrapper">
 		<!-- Content Header (Page header) -->
 		<section class="content-header">
-			<h1>
-				Dashboard
+			<h1 style="
+			display: inline-block;
+    margin-top: 30px;
+    
+    /* --- EL PUNTO MEDIO EXACTO --- */
+    /* 35% de blanco: Recupera el color 'lechoso' sin perder transparencia */
+    background-color: rgba(255, 255, 255, 0.35); 
+    
+    /* Efecto vidrio esmerilado */
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    
+    /* Sin bordes, limpieza total */
+    border: none;
+    
+    /* Estilo del texto */
+    padding: 25px 50px;
+    border-radius: 0 4px 4px 0;
+    color: #FF6600;
+    text-shadow: none !important;
+    font-weight: 900;
+    font-family: 'Arial Black', sans-serif;
+    text-transform: uppercase;
+    font-size: 40px;
+    letter-spacing: -1px;
+    line-height: 1;
+			">
+			PANEL DE CONTROL
 			</h1>
 			<ol class="breadcrumb">
 				<li class="active"><a href="#"><i class="fa fa-dashboard"></i> Dashboard</a></li>
