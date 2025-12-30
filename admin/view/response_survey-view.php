@@ -148,7 +148,7 @@
                         </form> 
                         <div class="col-md-12  text-center">
                             <div id="sesions" style="display: none">
-                                <a href="?view=dashboard" class="btn btn-primary">Dashboard</a>
+                                <a href="?view=Panel de Control" class="btn btn-primary">Dashboard</a>
                             </div>
                             <br><br>
                         </div>    

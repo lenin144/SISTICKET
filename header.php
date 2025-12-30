@@ -164,7 +164,7 @@
             <div class="contenidos10">
                 <div class="wrapper" style="background: none !important;">
                     <label style="z-index: 20000; font-weight: bold" for="cerrar" id="btn-cerrar" style="font-weight: bold;">X</label>
-                    <img  src="images/calidraper_modal.png" alt="Calidra Peru" style="border-radius: 6px; width:321px; height: 520px;  "> 
+                    <img  src="images/sgs.png" alt="Calidra Peru" style="border-radius: 6px; width:321px; height: 520px;  "> 
                 </div>
             </div>
         </div>

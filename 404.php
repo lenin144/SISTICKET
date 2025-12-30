@@ -36,19 +36,14 @@
                     </div><!-- /.container-fluid -->
                 </nav>
             </header><!-- Content Wrapper. Contains page content -->
-            <div class="content-wrapper"><!-- Content Header (Page header) -->
-                <section class="content"><!-- Main content -->
-                    <div class="error-page">
-                        <h2 class="headline text-yellow"> 404</h2>
-                        <div class="error-content">
-                            <h3><i class="fa fa-warning text-yellow"></i> Oops! Página no encontrada.</h3>
-                                <h3>Hmmm!</h3>
-                            <p>No encontramos lo que buscabas!</p>
-                              <a href="./" class="btn btn-default"><span class="glyphicon glyphicon-hand-left"></span> Regresar</a>
-                        </div><!-- /.error-content -->
-                    </div><!-- /.error-page -->
-                </section><!-- /.content -->
-                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <div class="content-wrapper"><section class="content"><div class="error-page">
+                <h2 class="headline text-yellow"> 404</h2>
+                <div class="error-content">
+                    <h3><i class="fa fa-warning text-yellow"></i> Oops! Página no encontrada.</h3>
+                    <h3 style="font-weight: 900; color: #333; -webkit-text-stroke: 1.5px white;">Hmmm!</h3>
+                    <p>No encontramos lo que buscabas!</p>
+                    <a href="./" class="btn btn-default"><span class="glyphicon glyphicon-hand-left"></span> Regresar</a>
+                </div></div></section><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
             </div>
             <footer class="main-footer"><!-- /.content-wrapper -->
                 <div class="pull-right hidden-xs">

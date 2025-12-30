@@ -194,7 +194,7 @@ $inser=mysqli_query($con,"INSERT INTO tickets (id, created_at,client_id) VALUES 
             <br>
             <?php echo $fecha ?>
             <br><br>
-            <a href="?view=dashboard" class="btn btn-primary" id="btn_new_ticket"><!-- <i class="fa fa-plus"></i> --> Dashboard</a>  
+            <a href="?view=Panel de Control" class="btn btn-primary" id="btn_new_ticket"><!-- <i class="fa fa-plus"></i> --> Dashboard</a>  
         </div>
     </div>
                                         </div>
