@@ -28,7 +28,7 @@
 
         <i class="fa fa-ticket icon-title"></i> Mis Tickets
 
-        <a style="background-color: #ca4300;color:#fff" class="btn btn- btn-social pull-right" href="?view=addticket" title="Crear Ticket" data-toggle="tooltip">
+        <a style="background-color: #ca4300;color:#fff" class="btn btn- btn-social pull-right" href="?view=nuevoticket" title="Crear Ticket" data-toggle="tooltip">
 
           <i class="fa fa-plus"></i> Crear Ticket
 
