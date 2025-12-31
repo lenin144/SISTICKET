@@ -277,7 +277,7 @@
 		  <?php if($profile_pic!=""){ ?>
 			<img src="admin/images/profiles/<?php echo $profile_pic; ?>" class="img-circle" alt="Cliente Image"/>
 		<?php }else{ ?>
-			<img src="admin/images/default.png" class="img-circle" alt="Cliente Image"/>
+			<img src="admin/images/junior_niquen.png" class="img-circle" alt="Cliente Image"/>
 		<?php } ?>
 		</div>
 		<div class="pull-left info">
